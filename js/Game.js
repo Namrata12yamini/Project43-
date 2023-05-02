@@ -137,7 +137,7 @@ class Game {
 
 
            player.update();
-           this.showRank();
+          // this.showRank();
          } 
          if (keyIsDown(UP_ARROW)) {
           player.positionY += 10;
